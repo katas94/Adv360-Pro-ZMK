@@ -1,30 +1,30 @@
-macro_lol-team-chat: macro_lol-team-chat{
+macro_lol_team_chat: macro_lol_team_chat{
 compatible = "zmk,behavior-macro";
-label = "macro_lol-team-chat";
+label = "macro_lol_team_chat";
 #binding-cells = <0>;
 bindings = <&tog 4>, <&kp ENTER>;
 };
-macro_lol-chat-cancel: macro_lol-chat-cancel{
+macro_lol_chat_cancel: macro_lol_chat_cancel{
 compatible = "zmk,behavior-macro";
-label = "macro_lol-chat-cancel";
+label = "macro_lol_chat_cancel";
 #binding-cells = <0>;
 bindings = <&kp ESC>, <&tog 4>;
 };
-macro_lol-chat-submit: macro_lol-chat-submit{
+macro_lol_chat_submit: macro_lol_chat_submit{
 compatible = "zmk,behavior-macro";
-label = "macro_lol-chat-submit";
+label = "macro_lol_chat_submit";
 #binding-cells = <0>;
 bindings = <&kp ENTER>, <&tog 4>;
 };
-macro_lol-all-chat: macro_lol-all-chat{
+macro_lol_all_chat: macro_lol_all_chat{
 compatible = "zmk,behavior-macro";
-label = "macro_lol-all-chat";
+label = "macro_lol_all_chat";
 #binding-cells = <0>;
 bindings = <&tog 4>, <&kp LEFT_SHIFT>, <&kp ENTER>;
 };
-macro_input-switch: macro_input-switch{
+macro_input_switch: macro_input_switch{
 compatible = "zmk,behavior-macro";
-label = "macro_input-switch";
+label = "macro_input_switch";
 #binding-cells = <0>;
 bindings = <&kp RCMD>, <&kp SPACE>;
 };
