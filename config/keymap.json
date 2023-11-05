@@ -40,7 +40,7 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",             "&kp ESC",                                                                                           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",    "&trans", "&trans",                     "&trans",               "&trans",              "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                     "&trans",                     "&trans",                                                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&kp SPACE", "&kp LCTRL", "&trans",                     "&trans", "&macro_lol_team_chat", "&macro_lol_all_chat",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&kp LCTRL", "&kp SPACE", "&trans",                     "&trans", "&macro_lol_team_chat", "&macro_lol_all_chat",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
