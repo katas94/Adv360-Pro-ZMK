@@ -1,3 +1,33 @@
+macro_lol-team-chat: macro_lol-team-chat{
+compatible = "zmk,behavior-macro";
+label = "macro_lol-team-chat";
+#binding-cells = <0>;
+bindings = <&tog 4>, <&kp ENTER>;
+};
+macro_lol-chat-cancel: macro_lol-chat-cancel{
+compatible = "zmk,behavior-macro";
+label = "macro_lol-chat-cancel";
+#binding-cells = <0>;
+bindings = <&kp ESC>, <&tog 4>;
+};
+macro_lol-chat-submit: macro_lol-chat-submit{
+compatible = "zmk,behavior-macro";
+label = "macro_lol-chat-submit";
+#binding-cells = <0>;
+bindings = <&kp ENTER>, <&tog 4>;
+};
+macro_lol-all-chat: macro_lol-all-chat{
+compatible = "zmk,behavior-macro";
+label = "macro_lol-all-chat";
+#binding-cells = <0>;
+bindings = <&tog 4>, <&kp LEFT_SHIFT>, <&kp ENTER>;
+};
+macro_input-switch: macro_input-switch{
+compatible = "zmk,behavior-macro";
+label = "macro_input-switch";
+#binding-cells = <0>;
+bindings = <&kp RCMD>, <&kp SPACE>;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
